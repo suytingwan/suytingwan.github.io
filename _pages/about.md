@@ -11,7 +11,7 @@ I am Ying Su, a PhD student from IIP(AI) program at HKUST since Sep 2020, advise
 
 Research Interest
 ------
-- Commonsense Knowledge Representation.
+- Commonsense Knowledge Representation
 * Knowledge Reasoning
 + Embodided AI (long-horizon planning, spatial reasoning, multimodality)
 
