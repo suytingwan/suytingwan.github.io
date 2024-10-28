@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Ying Su, a PhD student from IIP(AI) program at HKUST since Sep 2020, advised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof.Tong Zhang](https://tongzhang-ml.org/group.html). I obtained my Bachelor's degree in Electric and Electornic Engineering from Tsinghua University (2012-2016). Previously, I worked as a machine learning engineer at iFlyTek and Baidu AIG from Jan 2017 to June 2020.
+I am Ying Su, a PhD student from IIP(AI) program at HKUST since Sep 2020, advised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof.Tong Zhang](https://tongzhang-ml.org/group.html). I obtained my Bachelor's degree in Electric and Electornic Engineering from Tsinghua University (2012-2016). Previously, I worked as a machine learning engineer at iFlyTek and Baidu AIG from Jan 2017 to Jun 2020.
 
 Research Interest
 ------
 - Commonsense Knowledge Representation
 * Knowledge Reasoning
-+ Embodided AI (long-horizon planning, spatial reasoning, multimodality)
++ Embodied AI (long-horizon planning, spatial reasoning, multimodality)
 
 
 Publiciation
@@ -34,6 +34,6 @@ Challenge
 * Rank 5th in Image Caption Competetion (AI Challenger 2017)
 * Rank 3rd in The Dialog State Tracking Challenge 5 (SLT 2016 workshop)
 
-Academic service
+Academic Service
 ------
 Conference Reviewer: ACL 2023, EMNLP 2023, ACL 2024, EMNLP 2024, COLING 2025, NAACL 2025.
