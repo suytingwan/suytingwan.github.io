@@ -31,7 +31,7 @@ Publiciation
 Challenge
 ------
 * Rank 1st in Webvision 2018 Challenge (CVPR 2018 workshop)
-* Rank 5th in Image Caption Competetion (AI Challenger 2017)
+* Rank 5th in Image Caption Competition (AI Challenger 2017)
 * Rank 3rd in The Dialog State Tracking Challenge 5 (SLT 2016 workshop)
 
 Academic Service
