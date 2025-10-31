@@ -7,19 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am Ying Su, a PhD student from IIP(AI) program at HKUST since Sep 2020, advised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof.Tong Zhang](https://tongzhang-ml.org/group.html). I obtained my Bachelor's degree in Electric and Electornic Engineering from Tsinghua University (2012-2016). Previously, I worked as a machine learning engineer at iFlyTek and Baidu AIG from Jan 2017 to Jun 2020.
+I am Ying Su, assistant professor at Software Engineering Department, South China University of Technology since Oct 2025. I obtained my PhD degree in IIP(AI) program at HKUST from Sep 2020 to Jan 2025, advised by [Prof.Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof.Tong Zhang](https://tongzhang-ml.org/group.html). I graduated from Tsinghua University with Bachelor's degree in Electric and Electornic Engineering from Aug 2012 to Jul 2016. Previously, I worked as a machine learning engineer at iFlyTek and Baidu AIG from Jan 2017 to Jun 2020.
 
 Research Interest
 ------
 - Commonsense Knowledge Representation
 * Knowledge Reasoning
 + Embodied AI (long-horizon planning, spatial reasoning, multimodality)
+- AI Ethics
 
 
 Publiciation
 ------
-- Are LLMs Rigorous Logical Reasoner? Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding. Arxiv Preprint. _Ying Su, Xiaojin Fu, Mingwen Liu, Zhijiang Guo_ \[[paper](https://arxiv.org/pdf/2311.06736)\]
 - EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion. Arxiv Preprint. _Ying Su, Tianqing Fang, Huiru Xiao, Weiqi Wang, Yangqiu Song, Tong Zhang, Lei Chen_ \[[paper](https://arxiv.org/pdf/2402.09666)\]
+- Are LLMs Rigorous Logical Reasoners? Empowering Natural Language Proof Generation by Stepwise Decoding with Contrastive Learning. AACL 2025. _Ying Su, Mingwen Liu, Zhijiang Guo_ \[[paper](https://arxiv.org/abs/2311.06736)\] \[[code](https://github.com/suytingwan/LLM-proof)\]
 - ActPlan-1K: Benchmarking the Procedural Planning Ability of Visual Language Models in Household Activities. EMNLP 2024. _Ying Su, Zhan Ling, Haochen Shi, Jiayang Cheng, Yauwai Yim, Yangqiu Song_ \[[paper](https://arxiv.org/pdf/2410.03907)\] \[[code](https://github.com/HKUST-KnowComp/ActPlan-1K)\]
 - Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key? ACL 2024. _Qineng Wang, Zihao Wang, Ying Su, Hanghang Tong, Yangqiu Song_ \[[paper](https://aclanthology.org/2024.acl-long.331.pdf)\]
 - PipeNet: Question Answering with Semantic Pruning over Knowledge Graphs. StarSem 2024. _Ying Su, Jipeng Zhang, Yangqiu Song, Tong Zhang_ \[[paper](https://aclanthology.org/2024.starsem-1.29.pdf)\] \[[code](https://github.com/HKUST-KnowComp/PipeNet)\]
