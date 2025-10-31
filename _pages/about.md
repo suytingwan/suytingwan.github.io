@@ -21,12 +21,12 @@ Publiciation
 ------
 - EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion. Arxiv Preprint. _Ying Su, Tianqing Fang, Huiru Xiao, Weiqi Wang, Yangqiu Song, Tong Zhang, Lei Chen_ \[[paper](https://arxiv.org/pdf/2402.09666)\]
 - Are LLMs Rigorous Logical Reasoners? Empowering Natural Language Proof Generation by Stepwise Decoding with Contrastive Learning. AACL 2025. _Ying Su, Mingwen Liu, Zhijiang Guo_ \[[paper](https://arxiv.org/abs/2311.06736)\] \[[code](https://github.com/suytingwan/LLM-proof)\]
-- ActPlan-1K: Benchmarking the Procedural Planning Ability of Visual Language Models in Household Activities. EMNLP 2024. _Ying Su, Zhan Ling, Haochen Shi, Jiayang Cheng, Yauwai Yim, Yangqiu Song_ \[[paper](https://arxiv.org/pdf/2410.03907)\] \[[code](https://github.com/HKUST-KnowComp/ActPlan-1K)\]
-- Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key? ACL 2024. _Qineng Wang, Zihao Wang, Ying Su, Hanghang Tong, Yangqiu Song_ \[[paper](https://aclanthology.org/2024.acl-long.331.pdf)\]
-- PipeNet: Question Answering with Semantic Pruning over Knowledge Graphs. StarSem 2024. _Ying Su, Jipeng Zhang, Yangqiu Song, Tong Zhang_ \[[paper](https://aclanthology.org/2024.starsem-1.29.pdf)\] \[[code](https://github.com/HKUST-KnowComp/PipeNet)\]
-- MICO: A multi-alternative contrastive learning framework for commonsense knowledge representation. EMNLP 2022. _Ying Su, Zihao Wang, Tianqing Fang, Hongming Zhang, Yangqiu Song, Tong Zhang_ \[[paper](https://aclanthology.org/2022.findings-emnlp.96.pdf)\] \[[code](https://github.com/HKUST-KnowComp/MICO)\]
-- Multilingual word sense disambiguation with unified sense representation. COLING 2022. _Ying Su, Hongming Zhang, Yangqiu Song, Tong Zhang_ \[[paper](https://aclanthology.org/2022.coling-1.368.pdf)\] \[[code](https://github.com/suytingwan/multilingual-WSD)\]
-- Rare and zero-shot word sense disambiguation using Z-reweighting. ACL 2022. _Ying Su, Hongming Zhang, Yangqiu Song, Tong Zhang_ \[[paper](https://aclanthology.org/2022.acl-long.323.pdf)\] \[[code](https://github.com/suytingwan/WSD-Z-reweighting)\]
+- ActPlan-1K: Benchmarking the Procedural Planning Ability of Visual Language Models in Household Activities. EMNLP 2024. _Ying Su, Zhan Ling, Haochen Shi, Jiayang Cheng, Yauwai Yim, Yangqiu Song_ \[[paper](https://aclanthology.org/2024.emnlp-main.833/)\] \[[code](https://github.com/HKUST-KnowComp/ActPlan-1K)\]
+- Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key? ACL 2024. _Qineng Wang, Zihao Wang, Ying Su, Hanghang Tong, Yangqiu Song_ \[[paper](https://aclanthology.org/2024.acl-long.331/)\]
+- PipeNet: Question Answering with Semantic Pruning over Knowledge Graphs. StarSem 2024. _Ying Su, Jipeng Zhang, Yangqiu Song, Tong Zhang_ \[[paper](https://aclanthology.org/2024.starsem-1.29/)\] \[[code](https://github.com/HKUST-KnowComp/PipeNet)\]
+- MICO: A multi-alternative contrastive learning framework for commonsense knowledge representation. EMNLP 2022. _Ying Su, Zihao Wang, Tianqing Fang, Hongming Zhang, Yangqiu Song, Tong Zhang_ \[[paper](https://aclanthology.org/2022.findings-emnlp.96/)\] \[[code](https://github.com/HKUST-KnowComp/MICO)\]
+- Multilingual word sense disambiguation with unified sense representation. COLING 2022. _Ying Su, Hongming Zhang, Yangqiu Song, Tong Zhang_ \[[paper](https://aclanthology.org/2022.coling-1.368/)\] \[[code](https://github.com/suytingwan/multilingual-WSD)\]
+- Rare and zero-shot word sense disambiguation using Z-reweighting. ACL 2022. _Ying Su, Hongming Zhang, Yangqiu Song, Tong Zhang_ \[[paper](https://aclanthology.org/2022.acl-long.323/)\] \[[code](https://github.com/suytingwan/WSD-Z-reweighting)\]
 
 
 Challenge
